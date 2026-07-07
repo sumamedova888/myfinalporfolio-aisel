@@ -1,0 +1,222 @@
+{
+  "name": "AISUN MAMEDOVA",
+  "title": "AI-Powered Growth Marketing Manager",
+  "heroHeadline": "Building Intelligent Marketing Systems That Scale Businesses.",
+  "tagline": "I help organizations accelerate growth by combining AI, automation, CRM, customer acquisition, and data-driven marketing into scalable systems that increase efficiency, generate qualified demand, and deliver measurable business outcomes.",
+  "about": "Modern marketing is no longer about isolated campaigns. Sustainable growth comes from connected systems where AI, automation, customer acquisition, CRM, analytics, and business strategy work together.\n\nOver the past more than 5 years, I've partnered with international organizations across education, technology, SaaS, AI, real estate, fintech, and digital businesses to build scalable marketing ecosystems that improve customer acquisition, streamline operations, and increase revenue.\n\nMy work combines strategic thinking with hands-on execution, helping organizations transform marketing into a predictable growth engine.\n\nI enjoy solving complex business challenges, simplifying workflows, and creating systems that continue generating value long after implementation.",
+  "aboutHeadline": "More Than Marketing. I Build Business Growth Systems.",
+  "stats": [
+    "5+ Years Experience",
+    "Global Marketing",
+    "AI & Automation",
+    "Growth Systems"
+  ],
+  "scheduleCallUrl": "https://calendly.com/aisunmamedova-info/30min",
+  "ctaWhatsApp": "https://wa.me/995593520194",
+  "services": [
+    {
+      "number": "01",
+      "title": "AI Growth Strategy",
+      "description": "Designing scalable AI-powered marketing strategies aligned with business objectives, customer acquisition, and sustainable growth."
+    },
+    {
+      "number": "02",
+      "title": "Marketing Automation",
+      "description": "Building intelligent automation systems using AI, CRM, workflows, and customer journeys that improve operational efficiency."
+    },
+    {
+      "number": "03",
+      "title": "CRM & Customer Lifecycle",
+      "description": "Creating end-to-end customer acquisition, nurturing, retention, segmentation, and lifecycle marketing systems."
+    },
+    {
+      "number": "04",
+      "title": "Paid Media & Performance",
+      "description": "Managing Google Ads, Meta Ads, LinkedIn Ads, and multi-channel campaigns focused on measurable ROI and qualified lead generation."
+    },
+    {
+      "number": "05",
+      "title": "AI Consulting & Workflow Design",
+      "description": "Helping businesses implement AI tools, automation frameworks, AI agents, prompt systems, and operational workflows into everyday marketing."
+    },
+    {
+      "number": "06",
+      "title": "Analytics & Growth Intelligence",
+      "description": "Transforming business and marketing data into actionable insights using dashboards, attribution models, conversion tracking, and performance reporting."
+    }
+  ],
+  "experience": [
+    {
+      "role": "Marketing Specialist",
+      "company": "Global eCampus Solutions Company (for details request my CV)",
+      "period": "Current Position",
+      "description": "Leading international marketing initiatives focused on customer acquisition, AI-powered marketing, CRM optimization, lifecycle marketing, automation, paid advertising, analytics, and digital growth strategies across multiple international university brands."
+    },
+    {
+      "role": "Marketing Specialist",
+      "company": "International Real Estate & Investment Projects (United States)",
+      "period": "Previous",
+      "description": "Led international marketing initiatives including paid advertising, website strategy, CRM implementation, lead generation, email marketing, brand positioning, and digital campaign management for global real estate investment projects."
+    },
+    {
+      "role": "PR & Digital Content Manager (2 years)",
+      "company": "Zawaya Real Estate Holding",
+      "period": "Previous",
+      "description": "Managed corporate communications, media relations, public relations, executive communications, digital publishing, content strategy, event promotion, and brand storytelling across multiple real estate developments.",
+      "achievement": "Recipient of the Certificate of Appreciation for outstanding contribution to brand communications and corporate visibility."
+    },
+    {
+      "role": "Operations Marketing Specialist (1 year)",
+      "company": "Mavrik White Label Software Company (Start-up)",
+      "period": "Previous",
+      "description": "Supported marketing operations for international white-label software solutions, coordinating product marketing, campaign execution, CRM operations, customer lifecycle initiatives, reporting, internal processes, and cross-functional marketing activities."
+    },
+    {
+      "role": "Social Media Growth Manager",
+      "company": "International Talent & Creator Management Agency",
+      "period": "Previous",
+      "description": "Managed TikTok and Instagram growth for international creators and digital talent by developing platform-specific content strategies, optimizing algorithm performance, increasing organic reach, audience engagement, and short-form content performance across multiple accounts."
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI",
+      "items": [
+        "ChatGPT", "Claude", "Gemini", "Perplexity", "NotebookLM", "Google AI Studio",
+        "OpenAI API", "Anthropic", "Cursor AI", "GitHub Copilot", "V0", "Lovable", "Bolt.new"
+      ]
+    },
+    {
+      "category": "AI Automation",
+      "items": [
+        "n8n", "Make.com", "Zapier", "GoHighLevel", "ManyChat", "Vapi AI",
+        "Webhook Automation", "AI Agents", "Prompt Engineering", "Workflow Automation"
+      ]
+    },
+    {
+      "category": "CRM",
+      "items": [
+        "GoHighLevel", "HubSpot", "Zoho CRM", "ActiveCampaign", "Mailchimp", "Brevo"
+      ]
+    },
+    {
+      "category": "Digital Marketing",
+      "items": [
+        "Google Ads", "Meta Ads", "LinkedIn Ads", "TikTok Ads", "YouTube Ads", "Pinterest Ads",
+        "Demand Gen Campaigns", "Performance Max", "Remarketing", "Lead Generation"
+      ]
+    },
+    {
+      "category": "Analytics",
+      "items": [
+        "GA4", "Google Tag Manager", "Looker Studio", "Hotjar", "Google Search Console",
+        "Google Trends", "Microsoft Clarity", "Conversion Tracking", "UTM Tracking", "Dashboard Reporting"
+      ]
+    },
+    {
+      "category": "SEO",
+      "items": [
+        "Technical SEO", "On-Page SEO", "Off-Page SEO", "Local SEO", "SEO Strategy",
+        "AEO", "AI Search Optimization", "Schema Markup", "Keyword Research"
+      ]
+    },
+    {
+      "category": "Development",
+      "items": ["GitHub"]
+    },
+    {
+      "category": "Design",
+      "items": ["Figma", "Canva", "Adobe", "Framer", "Design Systems", "Motion Design"]
+    },
+    {
+      "category": "Marketing",
+      "items": [
+        "Brand Strategy", "Growth Marketing", "Growth Hacking", "Marketing Funnels",
+        "Customer Acquisition", "Lifecycle Marketing", "Content Strategy", "Email Marketing",
+        "Community Management", "Copywriting", "A/B Testing", "Market Research",
+        "Competitive Analysis", "Project Management", "Team Leadership",
+        "Cross-functional Collaboration", "Strategic Planning", "Business Development"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Oracle Cloud Infrastructure AI Foundations Associate",
+      "issuer": "Oracle",
+      "year": 2025
+    },
+    {
+      "title": "Anthropic AI Fluency Framework & Foundations",
+      "issuer": "Anthropic",
+      "year": 2025
+    },
+    {
+      "title": "Anthropic Claude 101",
+      "issuer": "Anthropic",
+      "year": 2025
+    },
+    {
+      "title": "Digital Marketing Professional Certification",
+      "issuer": "Alison",
+      "year": 2022
+    },
+    {
+      "title": "Advanced Marketing",
+      "issuer": "MindLuster",
+      "year": 2023
+    },
+    {
+      "title": "Content Marketing",
+      "issuer": "MindLuster",
+      "year": 2023
+    },
+    {
+      "title": "Essential Management Skills",
+      "issuer": "IBMI",
+      "year": 2022
+    },
+    {
+      "title": "Shopify Expert",
+      "issuer": "Udemy",
+      "year": 2021
+    },
+    {
+      "title": "Professional Copywriting",
+      "issuer": "Udemy",
+      "year": 2021
+    },
+    {
+      "title": "Certificate of Appreciation — Corporate Communications & Brand Excellence",
+      "issuer": "Zawaya Real Estate Holding",
+      "year": null,
+      "description": "Awarded in recognition of outstanding contribution to corporate communications, brand visibility, and strategic marketing initiatives."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Business & Technology",
+      "major": "Major: Business Administration & Marketing",
+      "institution": "Georgian Technical University",
+      "description": "Studied business management, marketing strategy, digital transformation, entrepreneurship, business analytics, finance, international business, organizational management, and technology-driven business innovation."
+    }
+  ],
+  "languages": [
+    { "language": "Azerbaijani", "level": "Native / Bilingual Proficiency", "flag": "🇦🇿" },
+    { "language": "Turkish", "level": "Native / Bilingual Proficiency", "flag": "🇹🇷" },
+    { "language": "Georgian", "level": "Full Professional Proficiency", "flag": "🇬🇪" },
+    { "language": "English", "level": "Full Professional Proficiency (C1)", "flag": "🇬🇧" },
+    { "language": "Russian", "level": "Limited Working Proficiency", "flag": "🇷🇺" }
+  ],
+  "contactHeadline": "Let's Build Intelligent Growth Systems Together.",
+  "contactDescription": "Whether you're scaling a startup, optimizing enterprise marketing operations, implementing AI, or building intelligent customer acquisition systems, I'd be happy to explore how I can help your business grow.",
+  "contact": {
+    "email": "info@aisunmamedova.com",
+    "whatsapp": "https://wa.me/995593520194",
+    "location": "Global",
+    "website": "www.aisunmamedova.com",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/aysun-mamedova-162a51208",
+      "instagram": "https://www.instagram.com/aisunmamedovaa"
+    }
+  }
+}
